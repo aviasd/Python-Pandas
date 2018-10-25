@@ -15,5 +15,5 @@ File Table:
 |:-------------------------------|:---------------------------------------------------------------|:----------------------------|
 | Olympic_Games_Analysis.ipynb   | Data cleaning and analysis on the olympics dataset             | olympics.csv                |
 | Census_Bureau_Analysis.ipynb   | Data cleaning and analysis on the census dataset               | census.csv                  |
-| World_Countries_Analysis.ipynb | Data cleaning and analysis on countries data from few datasets | Energy Indicators.xls <br/> world_bank.csv <br/> scimagojr-3.xlsx  |
+| World_Countries_Analysis.ipynb | Data cleaning and analysis on countries data from few datasets | Energy_Indicators.xls <br/> world_bank.csv <br/> scimagojr-3.xlsx  |
 | Hypothesis_Testing.ipynb       | Data cleaning and hypothesis testing on USA housing dataset    | university_towns.txt <br/> gdplev.xls <br/> City_Zhvi_AllHomes.csv |
