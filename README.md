@@ -1,5 +1,5 @@
 # Python-Pandas
-Data analysis with Pandas in Python 
+Data Analysis with Pandas in Python 
 
 All the problems in this repository have a lot of solutions, some of them are complicated, some are simple,
 some are obvious and some are hard to grasp.
